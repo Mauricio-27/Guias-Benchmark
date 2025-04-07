@@ -3,6 +3,10 @@
 ## Introducción  
 NovaBench realiza benchmarks rápidos de CPU, GPU, RAM y almacenamiento, generando una puntuación global.  
 
+Puntuación unificada: Combina métricas dispares (CPU, GPU, disco) en un solo número para comparaciones rápidas.
+Optimización para gamers: Evalúa cómo interactúan CPU y GPU en escenarios reales (no solo benchmarks sintéticos).
+Pruebas focalizadas: Incluye test de transferencia de discos HDD/SSD, crítico para identificar cuellos de botella.
+
 ## Descarga e Instalación  
 1. **Descarga**:  
    - Entra a [novabench.com/download](https://novabench.com/download).  
