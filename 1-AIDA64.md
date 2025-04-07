@@ -3,6 +3,10 @@
 ## Introducción  
 AIDA64 es una herramienta de diagnóstico y benchmarking para hardware, ideal para analizar el rendimiento de CPU, RAM, GPU y discos.  
 
+Diagnóstico profundo: Revela especificaciones ocultas de tu sistema (voltajes, latencias de RAM, modelo exacto de placa base).
+Pruebas de estabilidad: Ideal para validar overclocking mediante stress tests personalizables (CPU, FPU, caché, RAM).
+Monitorización en tiempo real: Crea informes personalizados con sensores de temperatura (útil para detectar throttling).
+
 ## Descarga e Instalación  
 1. **Descarga**:  
    - Visita [www.aida64.com/downloads](https://www.aida64.com/downloads).  
