@@ -1,7 +1,14 @@
 # Guía Rápida de Prime95  
 
 ## Introducción  
-Prime95 es una herramienta de estrés para CPU, usada para testear estabilidad y detectar errores en overclocking.  
+Prime95 es una herramienta de estrés para CPU, usada para testear estabilidad y detectar errores en overclocking.
+
+Detectar errores silenciosos: Usa algoritmos matemáticos que colapsan CPUs inestables en minutos (incluso si pasan otros benchmarks).
+
+Modos especializados:
+Small FFTs: Máxima carga térmica en la CPU.
+Blend Test: Combina estrés en CPU y RAM (ideal para sistemas con overclocking en ambos).
+Comunidad científica: Los datos de errores ayudan a investigar fallos en arquitecturas de procesadores.
 
 ## Descarga e Instalación  
 1. **Descarga**:  
